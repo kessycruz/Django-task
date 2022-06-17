@@ -1,1 +1,1 @@
-# Django-task
+# This is a django task to create a Django project and start an app
